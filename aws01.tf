@@ -1,4 +1,4 @@
-# version 1.2
+# version 1.4
 provider "aws" {
   region     = "us-east-2"
   access_key = "${var.access_key}"
