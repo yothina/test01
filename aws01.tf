@@ -1,3 +1,4 @@
+# version 1.0
 provider "aws" {
   region     = "us-east-2"
   access_key = "${var.access_key}"
